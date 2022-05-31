@@ -1,0 +1,2314 @@
+[
+  {
+    "_id": "61af7d23743c38a934ecfc1c",
+    "name": "Healthy",
+    "idCategory": "61af52cba4eb8b88b6a2e379",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.535Z",
+    "updatedAt": "2021-12-07T15:26:27.535Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc1d",
+    "name": "Biscuits Cookies",
+    "idCategory": "61af52cba4eb8b88b6a2e379",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.535Z",
+    "updatedAt": "2021-12-07T15:26:27.535Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc1e",
+    "name": "Chips Snacks",
+    "idCategory": "61af52cba4eb8b88b6a2e379",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.535Z",
+    "updatedAt": "2021-12-07T15:26:27.535Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc1f",
+    "name": "Lessive",
+    "idCategory": "61af52cba4eb8b88b6a2e379",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.535Z",
+    "updatedAt": "2021-12-07T15:26:27.535Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc20",
+    "name": "Détachage",
+    "idCategory": "61af52cba4eb8b88b6a2e379",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.535Z",
+    "updatedAt": "2021-12-07T15:26:27.535Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc21",
+    "name": "Détergent liquide",
+    "idCategory": "61af52cba4eb8b88b6a2e379",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.536Z",
+    "updatedAt": "2021-12-07T15:26:27.536Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc22",
+    "name": "Détergent en poudre",
+    "idCategory": "61af52cba4eb8b88b6a2e379",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.536Z",
+    "updatedAt": "2021-12-07T15:26:27.536Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc23",
+    "name": "Boissons",
+    "idCategory": "61af52cba4eb8b88b6a2e379",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.536Z",
+    "updatedAt": "2021-12-07T15:26:27.536Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc24",
+    "name": "Eau",
+    "idCategory": "61af52cba4eb8b88b6a2e379",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.536Z",
+    "updatedAt": "2021-12-07T15:26:27.536Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc25",
+    "name": "Jus",
+    "idCategory": "61af52cba4eb8b88b6a2e379",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.536Z",
+    "updatedAt": "2021-12-07T15:26:27.536Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc26",
+    "name": "Désodorisants",
+    "idCategory": "61af52cba4eb8b88b6a2e379",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.536Z",
+    "updatedAt": "2021-12-07T15:26:27.536Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc27",
+    "name": "Les essentiels",
+    "idCategory": "61af52cba4eb8b88b6a2e379",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.537Z",
+    "updatedAt": "2021-12-07T15:26:27.537Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc28",
+    "name": "Huiles",
+    "idCategory": "61af52cba4eb8b88b6a2e379",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.537Z",
+    "updatedAt": "2021-12-07T15:26:27.537Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc29",
+    "name": "Huile d'Olive",
+    "idCategory": "61af52cba4eb8b88b6a2e379",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.537Z",
+    "updatedAt": "2021-12-07T15:26:27.537Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc2a",
+    "name": "Pâtes Riz",
+    "idCategory": "61af52cba4eb8b88b6a2e379",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.537Z",
+    "updatedAt": "2021-12-07T15:26:27.537Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc2b",
+    "name": "Nettoyage domestique",
+    "idCategory": "61af52cba4eb8b88b6a2e379",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.537Z",
+    "updatedAt": "2021-12-07T15:26:27.537Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc2c",
+    "name": "Outils de nettoyage",
+    "idCategory": "61af52cba4eb8b88b6a2e379",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.537Z",
+    "updatedAt": "2021-12-07T15:26:27.537Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc2d",
+    "name": "Nettoyeurs de cuisine",
+    "idCategory": "61af52cba4eb8b88b6a2e379",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.537Z",
+    "updatedAt": "2021-12-07T15:26:27.537Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc2e",
+    "name": "Eau de javel",
+    "idCategory": "61af52cba4eb8b88b6a2e379",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.537Z",
+    "updatedAt": "2021-12-07T15:26:27.537Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc2f",
+    "name": "Gant Latex",
+    "idCategory": "61af52cba4eb8b88b6a2e379",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.538Z",
+    "updatedAt": "2021-12-07T15:26:27.538Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc30",
+    "name": "Petit électroménager",
+    "idCategory": "61af52cba4eb8b88b6a2e37a",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.538Z",
+    "updatedAt": "2021-12-07T15:26:27.538Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc31",
+    "name": "Micro-ondes",
+    "idCategory": "61af52cba4eb8b88b6a2e37a",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.538Z",
+    "updatedAt": "2021-12-07T15:26:27.538Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc32",
+    "name": "Mixeurs Blenders",
+    "idCategory": "61af52cba4eb8b88b6a2e37a",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.538Z",
+    "updatedAt": "2021-12-07T15:26:27.538Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc33",
+    "name": "Robot de cuisine",
+    "idCategory": "61af52cba4eb8b88b6a2e37a",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.538Z",
+    "updatedAt": "2021-12-07T15:26:27.538Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc34",
+    "name": "Centrifugeuses",
+    "idCategory": "61af52cba4eb8b88b6a2e37a",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.538Z",
+    "updatedAt": "2021-12-07T15:26:27.538Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc35",
+    "name": "Friteuses",
+    "idCategory": "61af52cba4eb8b88b6a2e37a",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.538Z",
+    "updatedAt": "2021-12-07T15:26:27.538Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc36",
+    "name": "Robots Pétrins",
+    "idCategory": "61af52cba4eb8b88b6a2e37a",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.539Z",
+    "updatedAt": "2021-12-07T15:26:27.539Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc37",
+    "name": "Cuisseur",
+    "idCategory": "61af52cba4eb8b88b6a2e37a",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.539Z",
+    "updatedAt": "2021-12-07T15:26:27.539Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc38",
+    "name": "Crêpières",
+    "idCategory": "61af52cba4eb8b88b6a2e37a",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.539Z",
+    "updatedAt": "2021-12-07T15:26:27.539Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc39",
+    "name": "Gaufrier",
+    "idCategory": "61af52cba4eb8b88b6a2e37a",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.539Z",
+    "updatedAt": "2021-12-07T15:26:27.539Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc3a",
+    "name": "Cuisine",
+    "idCategory": "61af52cba4eb8b88b6a2e37a",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.539Z",
+    "updatedAt": "2021-12-07T15:26:27.539Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc3b",
+    "name": "Accessoires Ustensiles",
+    "idCategory": "61af52cba4eb8b88b6a2e37a",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.539Z",
+    "updatedAt": "2021-12-07T15:26:27.539Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc3c",
+    "name": "Conservation Rangements",
+    "idCategory": "61af52cba4eb8b88b6a2e37a",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.541Z",
+    "updatedAt": "2021-12-07T15:26:27.541Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc3d",
+    "name": "Cocotte minute",
+    "idCategory": "61af52cba4eb8b88b6a2e37a",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.541Z",
+    "updatedAt": "2021-12-07T15:26:27.541Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc3e",
+    "name": "Maison",
+    "idCategory": "61af52cba4eb8b88b6a2e37a",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.541Z",
+    "updatedAt": "2021-12-07T15:26:27.541Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc3f",
+    "name": "Meubles",
+    "idCategory": "61af52cba4eb8b88b6a2e37a",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.541Z",
+    "updatedAt": "2021-12-07T15:26:27.541Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc40",
+    "name": "Literie",
+    "idCategory": "61af52cba4eb8b88b6a2e37a",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.541Z",
+    "updatedAt": "2021-12-07T15:26:27.541Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc41",
+    "name": "Décoration de maison",
+    "idCategory": "61af52cba4eb8b88b6a2e37a",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.541Z",
+    "updatedAt": "2021-12-07T15:26:27.541Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc42",
+    "name": "Serviette de bain",
+    "idCategory": "61af52cba4eb8b88b6a2e37a",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.541Z",
+    "updatedAt": "2021-12-07T15:26:27.541Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc43",
+    "name": "Salle de bain",
+    "idCategory": "61af52cba4eb8b88b6a2e37a",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.542Z",
+    "updatedAt": "2021-12-07T15:26:27.542Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc44",
+    "name": "Art mural",
+    "idCategory": "61af52cba4eb8b88b6a2e37a",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.542Z",
+    "updatedAt": "2021-12-07T15:26:27.542Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc45",
+    "name": "Ventilateurs",
+    "idCategory": "61af52cba4eb8b88b6a2e37a",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.542Z",
+    "updatedAt": "2021-12-07T15:26:27.542Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc46",
+    "name": "Eclairage, Luminaires Plafonniers",
+    "idCategory": "61af52cba4eb8b88b6a2e37a",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.542Z",
+    "updatedAt": "2021-12-07T15:26:27.542Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc47",
+    "name": "Plaque De Cuisson",
+    "idCategory": "61af52cba4eb8b88b6a2e37a",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.542Z",
+    "updatedAt": "2021-12-07T15:26:27.542Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc48",
+    "name": "Lave Vaisselle",
+    "idCategory": "61af52cba4eb8b88b6a2e37a",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.542Z",
+    "updatedAt": "2021-12-07T15:26:27.542Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc49",
+    "name": "Top Marque",
+    "idCategory": "61af52cba4eb8b88b6a2e37a",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.542Z",
+    "updatedAt": "2021-12-07T15:26:27.542Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc4a",
+    "name": "evertek home",
+    "idCategory": "61af52cba4eb8b88b6a2e37a",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.542Z",
+    "updatedAt": "2021-12-07T15:26:27.542Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc4b",
+    "name": "Moulinex",
+    "idCategory": "61af52cba4eb8b88b6a2e37a",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.542Z",
+    "updatedAt": "2021-12-07T15:26:27.542Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc4c",
+    "name": "Babyliss",
+    "idCategory": "61af52cba4eb8b88b6a2e37a",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.542Z",
+    "updatedAt": "2021-12-07T15:26:27.542Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc4d",
+    "name": "Bomann",
+    "idCategory": "61af52cba4eb8b88b6a2e37a",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.542Z",
+    "updatedAt": "2021-12-07T15:26:27.542Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc4e",
+    "name": "Topmatic",
+    "idCategory": "61af52cba4eb8b88b6a2e37a",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.543Z",
+    "updatedAt": "2021-12-07T15:26:27.543Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc4f",
+    "name": "Maquillage",
+    "idCategory": "61af52cba4eb8b88b6a2e37b",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.543Z",
+    "updatedAt": "2021-12-07T15:26:27.543Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc50",
+    "name": "Rouge à Lèvres",
+    "idCategory": "61af52cba4eb8b88b6a2e37b",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.543Z",
+    "updatedAt": "2021-12-07T15:26:27.543Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc51",
+    "name": "Vernis à Ongles",
+    "idCategory": "61af52cba4eb8b88b6a2e37b",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.543Z",
+    "updatedAt": "2021-12-07T15:26:27.543Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc52",
+    "name": "Palette de maquillage",
+    "idCategory": "61af52cba4eb8b88b6a2e37b",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.543Z",
+    "updatedAt": "2021-12-07T15:26:27.543Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc53",
+    "name": "Soin des cheveux",
+    "idCategory": "61af52cba4eb8b88b6a2e37b",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.543Z",
+    "updatedAt": "2021-12-07T15:26:27.543Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc54",
+    "name": "Soins des pieds",
+    "idCategory": "61af52cba4eb8b88b6a2e37b",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.543Z",
+    "updatedAt": "2021-12-07T15:26:27.543Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc55",
+    "name": "Massage Relaxation",
+    "idCategory": "61af52cba4eb8b88b6a2e37b",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.543Z",
+    "updatedAt": "2021-12-07T15:26:27.543Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc56",
+    "name": "Les essentiels de l'été",
+    "idCategory": "61af52cba4eb8b88b6a2e37b",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.543Z",
+    "updatedAt": "2021-12-07T15:26:27.543Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc57",
+    "name": "Bain Gels Douche",
+    "idCategory": "61af52cba4eb8b88b6a2e37b",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.543Z",
+    "updatedAt": "2021-12-07T15:26:27.543Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc58",
+    "name": "Soins mains Pieds",
+    "idCategory": "61af52cba4eb8b88b6a2e37b",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.543Z",
+    "updatedAt": "2021-12-07T15:26:27.543Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc59",
+    "name": "Colorations Cheveux",
+    "idCategory": "61af52cba4eb8b88b6a2e37b",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.544Z",
+    "updatedAt": "2021-12-07T15:26:27.544Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc5a",
+    "name": "Lisseurs, sèche cheveux et brosses",
+    "idCategory": "61af52cba4eb8b88b6a2e37b",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.544Z",
+    "updatedAt": "2021-12-07T15:26:27.544Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc5b",
+    "name": "Huile de Monoï",
+    "idCategory": "61af52cba4eb8b88b6a2e37b",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.544Z",
+    "updatedAt": "2021-12-07T15:26:27.544Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc5c",
+    "name": "Parfums",
+    "idCategory": "61af52cba4eb8b88b6a2e37b",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.544Z",
+    "updatedAt": "2021-12-07T15:26:27.544Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc5d",
+    "name": "Parfums homme",
+    "idCategory": "61af52cba4eb8b88b6a2e37b",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.544Z",
+    "updatedAt": "2021-12-07T15:26:27.544Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc5e",
+    "name": "Parfums femme",
+    "idCategory": "61af52cba4eb8b88b6a2e37b",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.544Z",
+    "updatedAt": "2021-12-07T15:26:27.544Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc5f",
+    "name": "Déodorants",
+    "idCategory": "61af52cba4eb8b88b6a2e37b",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.544Z",
+    "updatedAt": "2021-12-07T15:26:27.544Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc60",
+    "name": "Nos Meilleures Marques",
+    "idCategory": "61af52cba4eb8b88b6a2e37b",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.544Z",
+    "updatedAt": "2021-12-07T15:26:27.544Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc61",
+    "name": "Nivea",
+    "idCategory": "61af52cba4eb8b88b6a2e37b",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.544Z",
+    "updatedAt": "2021-12-07T15:26:27.544Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc62",
+    "name": "Maybelline",
+    "idCategory": "61af52cba4eb8b88b6a2e37b",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.545Z",
+    "updatedAt": "2021-12-07T15:26:27.545Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc63",
+    "name": "L'oréal",
+    "idCategory": "61af52cba4eb8b88b6a2e37b",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.545Z",
+    "updatedAt": "2021-12-07T15:26:27.545Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc64",
+    "name": "Technic",
+    "idCategory": "61af52cba4eb8b88b6a2e37b",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.545Z",
+    "updatedAt": "2021-12-07T15:26:27.545Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc65",
+    "name": "Sephora",
+    "idCategory": "61af52cba4eb8b88b6a2e37b",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.545Z",
+    "updatedAt": "2021-12-07T15:26:27.545Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc66",
+    "name": "Pharmaceris",
+    "idCategory": "61af52cba4eb8b88b6a2e37b",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.545Z",
+    "updatedAt": "2021-12-07T15:26:27.545Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc67",
+    "name": "SVR",
+    "idCategory": "61af52cba4eb8b88b6a2e37b",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.545Z",
+    "updatedAt": "2021-12-07T15:26:27.545Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc68",
+    "name": "Avène",
+    "idCategory": "61af52cba4eb8b88b6a2e37b",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.545Z",
+    "updatedAt": "2021-12-07T15:26:27.545Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc69",
+    "name": "Vichy",
+    "idCategory": "61af52cba4eb8b88b6a2e37b",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.546Z",
+    "updatedAt": "2021-12-07T15:26:27.546Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc6a",
+    "name": "Daylong",
+    "idCategory": "61af52cba4eb8b88b6a2e37b",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.546Z",
+    "updatedAt": "2021-12-07T15:26:27.546Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc6b",
+    "name": "Bioderma",
+    "idCategory": "61af52cba4eb8b88b6a2e37b",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.546Z",
+    "updatedAt": "2021-12-07T15:26:27.546Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc6c",
+    "name": "Huile Prodigieuse Nuxe",
+    "idCategory": "61af52cba4eb8b88b6a2e37b",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.546Z",
+    "updatedAt": "2021-12-07T15:26:27.546Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc6d",
+    "name": "TÉLÉPHONE PORTABLE",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.546Z",
+    "updatedAt": "2021-12-07T15:26:27.546Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc6e",
+    "name": "Smartphones",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.546Z",
+    "updatedAt": "2021-12-07T15:26:27.546Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc6f",
+    "name": "Téléphones Basics",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.546Z",
+    "updatedAt": "2021-12-07T15:26:27.546Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc70",
+    "name": "TABLETTES",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.546Z",
+    "updatedAt": "2021-12-07T15:26:27.546Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc71",
+    "name": "Tablettes",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.546Z",
+    "updatedAt": "2021-12-07T15:26:27.546Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc72",
+    "name": "Smartwatch",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.546Z",
+    "updatedAt": "2021-12-07T15:26:27.546Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc73",
+    "name": "Casques ecouteurs",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.546Z",
+    "updatedAt": "2021-12-07T15:26:27.546Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc74",
+    "name": "Power banks",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.547Z",
+    "updatedAt": "2021-12-07T15:26:27.547Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc75",
+    "name": "Cartes Mémoires",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.547Z",
+    "updatedAt": "2021-12-07T15:26:27.547Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc76",
+    "name": "Samsung clear view",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.547Z",
+    "updatedAt": "2021-12-07T15:26:27.547Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc77",
+    "name": "SMARTPHONES PREMIUM",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.547Z",
+    "updatedAt": "2021-12-07T15:26:27.547Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc78",
+    "name": "Samsung Galaxy S10",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.547Z",
+    "updatedAt": "2021-12-07T15:26:27.547Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc79",
+    "name": "Oppo Reno 2F",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.547Z",
+    "updatedAt": "2021-12-07T15:26:27.547Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc7a",
+    "name": "Samsung Galaxy A51",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.547Z",
+    "updatedAt": "2021-12-07T15:26:27.547Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc7b",
+    "name": "Xiaomi Redmi Note 8",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.547Z",
+    "updatedAt": "2021-12-07T15:26:27.547Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc7c",
+    "name": "Huawei P30 Lite",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.547Z",
+    "updatedAt": "2021-12-07T15:26:27.547Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc7d",
+    "name": "Infinix zero 8",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.547Z",
+    "updatedAt": "2021-12-07T15:26:27.547Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc7e",
+    "name": "Top Marque",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.547Z",
+    "updatedAt": "2021-12-07T15:26:27.547Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc7f",
+    "name": "Huawei",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.547Z",
+    "updatedAt": "2021-12-07T15:26:27.547Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc80",
+    "name": "Apple",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.548Z",
+    "updatedAt": "2021-12-07T15:26:27.548Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc81",
+    "name": "Samsung",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.548Z",
+    "updatedAt": "2021-12-07T15:26:27.548Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc82",
+    "name": "Infinix",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.548Z",
+    "updatedAt": "2021-12-07T15:26:27.548Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc83",
+    "name": "Evertek",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.548Z",
+    "updatedAt": "2021-12-07T15:26:27.548Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc84",
+    "name": "Nokia",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.548Z",
+    "updatedAt": "2021-12-07T15:26:27.548Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc85",
+    "name": "Xiaomi",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.548Z",
+    "updatedAt": "2021-12-07T15:26:27.548Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc86",
+    "name": "Nos meilleurs Smartphones",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.548Z",
+    "updatedAt": "2021-12-07T15:26:27.548Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc87",
+    "name": "Huawei Y9s",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.548Z",
+    "updatedAt": "2021-12-07T15:26:27.548Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc88",
+    "name": "Samsung Galaxy A10S",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.548Z",
+    "updatedAt": "2021-12-07T15:26:27.548Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc89",
+    "name": "Samsung Galaxy A20S",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.548Z",
+    "updatedAt": "2021-12-07T15:26:27.548Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc8a",
+    "name": "Samsung Galaxy A30S",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.548Z",
+    "updatedAt": "2021-12-07T15:26:27.548Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc8b",
+    "name": "Oppo A9 2020",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.549Z",
+    "updatedAt": "2021-12-07T15:26:27.549Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc8c",
+    "name": "Infinix S4",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.549Z",
+    "updatedAt": "2021-12-07T15:26:27.549Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc8d",
+    "name": "Huawei Y9 2019",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.549Z",
+    "updatedAt": "2021-12-07T15:26:27.549Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc8e",
+    "name": "Huawei Y6 Prime 2019",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.549Z",
+    "updatedAt": "2021-12-07T15:26:27.549Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc8f",
+    "name": "Huawei Nova 3I",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.549Z",
+    "updatedAt": "2021-12-07T15:26:27.549Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc90",
+    "name": "Oppo F11",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.549Z",
+    "updatedAt": "2021-12-07T15:26:27.549Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc91",
+    "name": "Oppo A5s",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.549Z",
+    "updatedAt": "2021-12-07T15:26:27.549Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc92",
+    "name": "Tecno Spark 6",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.549Z",
+    "updatedAt": "2021-12-07T15:26:27.549Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc93",
+    "name": "Infinix Smart 5",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.549Z",
+    "updatedAt": "2021-12-07T15:26:27.549Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc94",
+    "name": "Infinix Note 8",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.549Z",
+    "updatedAt": "2021-12-07T15:26:27.549Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc95",
+    "name": "Infinix Hot 10 Play",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.549Z",
+    "updatedAt": "2021-12-07T15:26:27.549Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc96",
+    "name": "Redmi Poco X3",
+    "idCategory": "61af52cba4eb8b88b6a2e37c",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.549Z",
+    "updatedAt": "2021-12-07T15:26:27.549Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc97",
+    "name": "Mode homme",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.550Z",
+    "updatedAt": "2021-12-07T15:26:27.550Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc98",
+    "name": "Maillots de bain",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.550Z",
+    "updatedAt": "2021-12-07T15:26:27.550Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc99",
+    "name": "Pantalons",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.550Z",
+    "updatedAt": "2021-12-07T15:26:27.550Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc9a",
+    "name": "Pulls, Gilets Cardigans",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.550Z",
+    "updatedAt": "2021-12-07T15:26:27.550Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc9b",
+    "name": "T-shirts, Polos, Chemises",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.550Z",
+    "updatedAt": "2021-12-07T15:26:27.550Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc9c",
+    "name": "Shorts",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.550Z",
+    "updatedAt": "2021-12-07T15:26:27.550Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc9d",
+    "name": "Chaussures homme",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.550Z",
+    "updatedAt": "2021-12-07T15:26:27.550Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc9e",
+    "name": "Espadrilles",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.550Z",
+    "updatedAt": "2021-12-07T15:26:27.550Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfc9f",
+    "name": "Baskets Tennis",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.550Z",
+    "updatedAt": "2021-12-07T15:26:27.550Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfca0",
+    "name": "Chaussures de Ville",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.550Z",
+    "updatedAt": "2021-12-07T15:26:27.550Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfca1",
+    "name": "Mocassins",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.550Z",
+    "updatedAt": "2021-12-07T15:26:27.550Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfca2",
+    "name": "Sandales Mules",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.550Z",
+    "updatedAt": "2021-12-07T15:26:27.550Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfca3",
+    "name": "Accessoires homme",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.550Z",
+    "updatedAt": "2021-12-07T15:26:27.550Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfca4",
+    "name": "Montres",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.551Z",
+    "updatedAt": "2021-12-07T15:26:27.551Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfca5",
+    "name": "Bijoux Homme",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.551Z",
+    "updatedAt": "2021-12-07T15:26:27.551Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfca6",
+    "name": "Lunettes de soleil Homme",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.551Z",
+    "updatedAt": "2021-12-07T15:26:27.551Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfca7",
+    "name": "Mode femme",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.551Z",
+    "updatedAt": "2021-12-07T15:26:27.551Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfca8",
+    "name": "Robes",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.551Z",
+    "updatedAt": "2021-12-07T15:26:27.551Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfca9",
+    "name": "Maillots de bain",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.551Z",
+    "updatedAt": "2021-12-07T15:26:27.551Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcaa",
+    "name": "Jupes",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.551Z",
+    "updatedAt": "2021-12-07T15:26:27.551Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcab",
+    "name": "Combinaisons Ensembles",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.554Z",
+    "updatedAt": "2021-12-07T15:26:27.554Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcac",
+    "name": "Chaussettes, Bas Collants",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.554Z",
+    "updatedAt": "2021-12-07T15:26:27.554Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcad",
+    "name": "Chaussures femme",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.554Z",
+    "updatedAt": "2021-12-07T15:26:27.554Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcae",
+    "name": "Baskets Tennis",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.554Z",
+    "updatedAt": "2021-12-07T15:26:27.554Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcaf",
+    "name": "Chaussures à Talons",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.554Z",
+    "updatedAt": "2021-12-07T15:26:27.554Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcb0",
+    "name": "Pantoufles",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.554Z",
+    "updatedAt": "2021-12-07T15:26:27.554Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcb1",
+    "name": "Sandales Nu-pieds",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.555Z",
+    "updatedAt": "2021-12-07T15:26:27.555Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcb2",
+    "name": "Accessoires femme",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.555Z",
+    "updatedAt": "2021-12-07T15:26:27.555Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcb3",
+    "name": "Montres",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.555Z",
+    "updatedAt": "2021-12-07T15:26:27.555Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcb4",
+    "name": "Bijoux femme",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.555Z",
+    "updatedAt": "2021-12-07T15:26:27.555Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcb5",
+    "name": "Garçons",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.555Z",
+    "updatedAt": "2021-12-07T15:26:27.555Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcb6",
+    "name": "Chaussures",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.555Z",
+    "updatedAt": "2021-12-07T15:26:27.555Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcb7",
+    "name": "Vêtements",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.555Z",
+    "updatedAt": "2021-12-07T15:26:27.555Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcb8",
+    "name": "Accessoires",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.555Z",
+    "updatedAt": "2021-12-07T15:26:27.555Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcb9",
+    "name": "Filles",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.555Z",
+    "updatedAt": "2021-12-07T15:26:27.555Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcba",
+    "name": "Chaussures",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.555Z",
+    "updatedAt": "2021-12-07T15:26:27.555Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcbb",
+    "name": "Vêtements",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.555Z",
+    "updatedAt": "2021-12-07T15:26:27.555Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcbc",
+    "name": "Accessoires",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.555Z",
+    "updatedAt": "2021-12-07T15:26:27.555Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcbd",
+    "name": "Bagagerie",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.556Z",
+    "updatedAt": "2021-12-07T15:26:27.556Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcbe",
+    "name": "Valises",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.556Z",
+    "updatedAt": "2021-12-07T15:26:27.556Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcbf",
+    "name": "Sacs Pochettes",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.556Z",
+    "updatedAt": "2021-12-07T15:26:27.556Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcc0",
+    "name": "Sacs à dos",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.556Z",
+    "updatedAt": "2021-12-07T15:26:27.556Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcc1",
+    "name": "Sac de Plage",
+    "idCategory": "61af52cba4eb8b88b6a2e37d",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.556Z",
+    "updatedAt": "2021-12-07T15:26:27.556Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcc2",
+    "name": "Ordinateurs",
+    "idCategory": "61af52cba4eb8b88b6a2e37e",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.556Z",
+    "updatedAt": "2021-12-07T15:26:27.556Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcc3",
+    "name": "PC Portables",
+    "idCategory": "61af52cba4eb8b88b6a2e37e",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.556Z",
+    "updatedAt": "2021-12-07T15:26:27.556Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcc4",
+    "name": "Ordinateurs fixes",
+    "idCategory": "61af52cba4eb8b88b6a2e37e",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.556Z",
+    "updatedAt": "2021-12-07T15:26:27.556Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcc5",
+    "name": "Pc Gamer",
+    "idCategory": "61af52cba4eb8b88b6a2e37e",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.556Z",
+    "updatedAt": "2021-12-07T15:26:27.556Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcc6",
+    "name": "PC Asus",
+    "idCategory": "61af52cba4eb8b88b6a2e37e",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.556Z",
+    "updatedAt": "2021-12-07T15:26:27.556Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcc7",
+    "name": "PC Dell",
+    "idCategory": "61af52cba4eb8b88b6a2e37e",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.556Z",
+    "updatedAt": "2021-12-07T15:26:27.556Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcc8",
+    "name": "Imprimantes Scanners",
+    "idCategory": "61af52cba4eb8b88b6a2e37e",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.556Z",
+    "updatedAt": "2021-12-07T15:26:27.556Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcc9",
+    "name": "Imprimantes",
+    "idCategory": "61af52cba4eb8b88b6a2e37e",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.557Z",
+    "updatedAt": "2021-12-07T15:26:27.557Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcca",
+    "name": "Cartouches d'encres et toners",
+    "idCategory": "61af52cba4eb8b88b6a2e37e",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.557Z",
+    "updatedAt": "2021-12-07T15:26:27.557Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfccb",
+    "name": "Scanner",
+    "idCategory": "61af52cba4eb8b88b6a2e37e",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.557Z",
+    "updatedAt": "2021-12-07T15:26:27.557Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfccc",
+    "name": "Périphériques Accessoires",
+    "idCategory": "61af52cba4eb8b88b6a2e37e",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.557Z",
+    "updatedAt": "2021-12-07T15:26:27.557Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfccd",
+    "name": "Clavier, souris accessoires",
+    "idCategory": "61af52cba4eb8b88b6a2e37e",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.557Z",
+    "updatedAt": "2021-12-07T15:26:27.557Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcce",
+    "name": "Accessoires audio vidéo",
+    "idCategory": "61af52cba4eb8b88b6a2e37e",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.557Z",
+    "updatedAt": "2021-12-07T15:26:27.557Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfccf",
+    "name": "Sacs, étuis et manches",
+    "idCategory": "61af52cba4eb8b88b6a2e37e",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.557Z",
+    "updatedAt": "2021-12-07T15:26:27.557Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcd0",
+    "name": "Matériel de jeu",
+    "idCategory": "61af52cba4eb8b88b6a2e37e",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.557Z",
+    "updatedAt": "2021-12-07T15:26:27.557Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcd1",
+    "name": "Stockage de données",
+    "idCategory": "61af52cba4eb8b88b6a2e37e",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.557Z",
+    "updatedAt": "2021-12-07T15:26:27.557Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcd2",
+    "name": "Clés USB",
+    "idCategory": "61af52cba4eb8b88b6a2e37e",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.558Z",
+    "updatedAt": "2021-12-07T15:26:27.558Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcd3",
+    "name": "Disques durs",
+    "idCategory": "61af52cba4eb8b88b6a2e37e",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.558Z",
+    "updatedAt": "2021-12-07T15:26:27.558Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcd4",
+    "name": "Nos meilleurs produits",
+    "idCategory": "61af52cba4eb8b88b6a2e37e",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.558Z",
+    "updatedAt": "2021-12-07T15:26:27.558Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcd5",
+    "name": "HP 15",
+    "idCategory": "61af52cba4eb8b88b6a2e37e",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.558Z",
+    "updatedAt": "2021-12-07T15:26:27.558Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcd6",
+    "name": "HP Envy",
+    "idCategory": "61af52cba4eb8b88b6a2e37e",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.558Z",
+    "updatedAt": "2021-12-07T15:26:27.558Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcd7",
+    "name": "Dell Inspiron",
+    "idCategory": "61af52cba4eb8b88b6a2e37e",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.558Z",
+    "updatedAt": "2021-12-07T15:26:27.558Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcd8",
+    "name": "Asus Vivobook",
+    "idCategory": "61af52cba4eb8b88b6a2e37e",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.558Z",
+    "updatedAt": "2021-12-07T15:26:27.558Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcd9",
+    "name": "Télévisions",
+    "idCategory": "61af52cba4eb8b88b6a2e37f",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.558Z",
+    "updatedAt": "2021-12-07T15:26:27.558Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcda",
+    "name": "Smart TV",
+    "idCategory": "61af52cba4eb8b88b6a2e37f",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.558Z",
+    "updatedAt": "2021-12-07T15:26:27.558Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcdb",
+    "name": "TV LED",
+    "idCategory": "61af52cba4eb8b88b6a2e37f",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.558Z",
+    "updatedAt": "2021-12-07T15:26:27.558Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcdc",
+    "name": "TV Curved",
+    "idCategory": "61af52cba4eb8b88b6a2e37f",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.558Z",
+    "updatedAt": "2021-12-07T15:26:27.558Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcdd",
+    "name": "TV 32",
+    "idCategory": "61af52cba4eb8b88b6a2e37f",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.558Z",
+    "updatedAt": "2021-12-07T15:26:27.558Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcde",
+    "name": "TV 40",
+    "idCategory": "61af52cba4eb8b88b6a2e37f",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.558Z",
+    "updatedAt": "2021-12-07T15:26:27.558Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcdf",
+    "name": "TV 43",
+    "idCategory": "61af52cba4eb8b88b6a2e37f",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.559Z",
+    "updatedAt": "2021-12-07T15:26:27.559Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfce0",
+    "name": "TV 55",
+    "idCategory": "61af52cba4eb8b88b6a2e37f",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.559Z",
+    "updatedAt": "2021-12-07T15:26:27.559Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfce1",
+    "name": "Audio",
+    "idCategory": "61af52cba4eb8b88b6a2e37f",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.559Z",
+    "updatedAt": "2021-12-07T15:26:27.559Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfce2",
+    "name": "Haut-parleurs",
+    "idCategory": "61af52cba4eb8b88b6a2e37f",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.559Z",
+    "updatedAt": "2021-12-07T15:26:27.559Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfce3",
+    "name": "Écouteurs",
+    "idCategory": "61af52cba4eb8b88b6a2e37f",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.560Z",
+    "updatedAt": "2021-12-07T15:26:27.560Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfce4",
+    "name": "Radio",
+    "idCategory": "61af52cba4eb8b88b6a2e37f",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.560Z",
+    "updatedAt": "2021-12-07T15:26:27.560Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfce5",
+    "name": "accessoires",
+    "idCategory": "61af52cba4eb8b88b6a2e37f",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.560Z",
+    "updatedAt": "2021-12-07T15:26:27.560Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfce6",
+    "name": "Appareil photo et caméras",
+    "idCategory": "61af52cba4eb8b88b6a2e37f",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.560Z",
+    "updatedAt": "2021-12-07T15:26:27.560Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfce7",
+    "name": "Caméras digitales",
+    "idCategory": "61af52cba4eb8b88b6a2e37f",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.560Z",
+    "updatedAt": "2021-12-07T15:26:27.560Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfce8",
+    "name": "ACCESSOIRES TV",
+    "idCategory": "61af52cba4eb8b88b6a2e37f",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.560Z",
+    "updatedAt": "2021-12-07T15:26:27.560Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfce9",
+    "name": "Récepteurs",
+    "idCategory": "61af52cba4eb8b88b6a2e37f",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.560Z",
+    "updatedAt": "2021-12-07T15:26:27.560Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcea",
+    "name": "Câbles et adaptateurs Tv",
+    "idCategory": "61af52cba4eb8b88b6a2e37f",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.560Z",
+    "updatedAt": "2021-12-07T15:26:27.560Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfceb",
+    "name": "Supports TV",
+    "idCategory": "61af52cba4eb8b88b6a2e37f",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.560Z",
+    "updatedAt": "2021-12-07T15:26:27.560Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcec",
+    "name": "Meubles TV",
+    "idCategory": "61af52cba4eb8b88b6a2e37f",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.560Z",
+    "updatedAt": "2021-12-07T15:26:27.560Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfced",
+    "name": "DVD",
+    "idCategory": "61af52cba4eb8b88b6a2e37f",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.560Z",
+    "updatedAt": "2021-12-07T15:26:27.560Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcee",
+    "name": "TOP MARQUES",
+    "idCategory": "61af52cba4eb8b88b6a2e37f",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.560Z",
+    "updatedAt": "2021-12-07T15:26:27.560Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcef",
+    "name": "Samsung",
+    "idCategory": "61af52cba4eb8b88b6a2e37f",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.560Z",
+    "updatedAt": "2021-12-07T15:26:27.560Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcf0",
+    "name": "Saba",
+    "idCategory": "61af52cba4eb8b88b6a2e37f",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.561Z",
+    "updatedAt": "2021-12-07T15:26:27.561Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcf1",
+    "name": "Condor",
+    "idCategory": "61af52cba4eb8b88b6a2e37f",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.561Z",
+    "updatedAt": "2021-12-07T15:26:27.561Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcf2",
+    "name": "TCL",
+    "idCategory": "61af52cba4eb8b88b6a2e37f",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.561Z",
+    "updatedAt": "2021-12-07T15:26:27.561Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcf3",
+    "name": "Vega",
+    "idCategory": "61af52cba4eb8b88b6a2e37f",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.561Z",
+    "updatedAt": "2021-12-07T15:26:27.561Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcf4",
+    "name": "Telefunken",
+    "idCategory": "61af52cba4eb8b88b6a2e37f",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.561Z",
+    "updatedAt": "2021-12-07T15:26:27.561Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcf5",
+    "name": "Samsat",
+    "idCategory": "61af52cba4eb8b88b6a2e37f",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.561Z",
+    "updatedAt": "2021-12-07T15:26:27.561Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcf6",
+    "name": "JBL",
+    "idCategory": "61af52cba4eb8b88b6a2e37f",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.561Z",
+    "updatedAt": "2021-12-07T15:26:27.561Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcf7",
+    "name": "Bein Sport",
+    "idCategory": "61af52cba4eb8b88b6a2e37f",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.561Z",
+    "updatedAt": "2021-12-07T15:26:27.561Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcf8",
+    "name": "Sony",
+    "idCategory": "61af52cba4eb8b88b6a2e37f",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.561Z",
+    "updatedAt": "2021-12-07T15:26:27.561Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcf9",
+    "name": "PlayStation 4",
+    "idCategory": "61af52cba4eb8b88b6a2e380",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.561Z",
+    "updatedAt": "2021-12-07T15:26:27.561Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcfa",
+    "name": "Manettes",
+    "idCategory": "61af52cba4eb8b88b6a2e380",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.561Z",
+    "updatedAt": "2021-12-07T15:26:27.561Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcfb",
+    "name": "Manettes PS3",
+    "idCategory": "61af52cba4eb8b88b6a2e380",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.562Z",
+    "updatedAt": "2021-12-07T15:26:27.562Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcfc",
+    "name": "Manettes PS4",
+    "idCategory": "61af52cba4eb8b88b6a2e380",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.562Z",
+    "updatedAt": "2021-12-07T15:26:27.562Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcfd",
+    "name": "Manettes PC",
+    "idCategory": "61af52cba4eb8b88b6a2e380",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.562Z",
+    "updatedAt": "2021-12-07T15:26:27.562Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcfe",
+    "name": "Boîtier Gaming",
+    "idCategory": "61af52cba4eb8b88b6a2e380",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.562Z",
+    "updatedAt": "2021-12-07T15:26:27.562Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfcff",
+    "name": "Carte Graphique",
+    "idCategory": "61af52cba4eb8b88b6a2e380",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.562Z",
+    "updatedAt": "2021-12-07T15:26:27.562Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd00",
+    "name": "Barette memoire",
+    "idCategory": "61af52cba4eb8b88b6a2e380",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.563Z",
+    "updatedAt": "2021-12-07T15:26:27.563Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd01",
+    "name": "Processeurs",
+    "idCategory": "61af52cba4eb8b88b6a2e380",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.563Z",
+    "updatedAt": "2021-12-07T15:26:27.563Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd02",
+    "name": "Jeux Videos",
+    "idCategory": "61af52cba4eb8b88b6a2e380",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.563Z",
+    "updatedAt": "2021-12-07T15:26:27.563Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd03",
+    "name": "Jeux PC",
+    "idCategory": "61af52cba4eb8b88b6a2e380",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.563Z",
+    "updatedAt": "2021-12-07T15:26:27.563Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd04",
+    "name": "Jeux PS4",
+    "idCategory": "61af52cba4eb8b88b6a2e380",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.563Z",
+    "updatedAt": "2021-12-07T15:26:27.563Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd05",
+    "name": "Fifa 19",
+    "idCategory": "61af52cba4eb8b88b6a2e380",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.563Z",
+    "updatedAt": "2021-12-07T15:26:27.563Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd06",
+    "name": "Fifa 18",
+    "idCategory": "61af52cba4eb8b88b6a2e380",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.563Z",
+    "updatedAt": "2021-12-07T15:26:27.563Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd07",
+    "name": "Nos Meilleures Marques",
+    "idCategory": "61af52cba4eb8b88b6a2e380",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.563Z",
+    "updatedAt": "2021-12-07T15:26:27.563Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd08",
+    "name": "Sony",
+    "idCategory": "61af52cba4eb8b88b6a2e380",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.563Z",
+    "updatedAt": "2021-12-07T15:26:27.563Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd09",
+    "name": "Asus",
+    "idCategory": "61af52cba4eb8b88b6a2e380",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.563Z",
+    "updatedAt": "2021-12-07T15:26:27.563Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd0a",
+    "name": "MSI",
+    "idCategory": "61af52cba4eb8b88b6a2e380",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.564Z",
+    "updatedAt": "2021-12-07T15:26:27.564Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd0b",
+    "name": "Reddragon",
+    "idCategory": "61af52cba4eb8b88b6a2e380",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.564Z",
+    "updatedAt": "2021-12-07T15:26:27.564Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd0c",
+    "name": "Hp",
+    "idCategory": "61af52cba4eb8b88b6a2e380",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.564Z",
+    "updatedAt": "2021-12-07T15:26:27.564Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd0d",
+    "name": "PC Gamer",
+    "idCategory": "61af52cba4eb8b88b6a2e380",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.564Z",
+    "updatedAt": "2021-12-07T15:26:27.564Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd0e",
+    "name": "Clavier Gamer",
+    "idCategory": "61af52cba4eb8b88b6a2e380",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.564Z",
+    "updatedAt": "2021-12-07T15:26:27.564Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd0f",
+    "name": "Souris Gamer",
+    "idCategory": "61af52cba4eb8b88b6a2e380",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.564Z",
+    "updatedAt": "2021-12-07T15:26:27.564Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd10",
+    "name": "Casques gamer",
+    "idCategory": "61af52cba4eb8b88b6a2e380",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.564Z",
+    "updatedAt": "2021-12-07T15:26:27.564Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd11",
+    "name": "Football",
+    "idCategory": "61af52cba4eb8b88b6a2e381",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.564Z",
+    "updatedAt": "2021-12-07T15:26:27.564Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd12",
+    "name": "Natation",
+    "idCategory": "61af52cba4eb8b88b6a2e381",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.565Z",
+    "updatedAt": "2021-12-07T15:26:27.565Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd13",
+    "name": "Boxe",
+    "idCategory": "61af52cba4eb8b88b6a2e381",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.565Z",
+    "updatedAt": "2021-12-07T15:26:27.565Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd14",
+    "name": "Yoga",
+    "idCategory": "61af52cba4eb8b88b6a2e381",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.565Z",
+    "updatedAt": "2021-12-07T15:26:27.565Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd15",
+    "name": "PLEIN AIR",
+    "idCategory": "61af52cba4eb8b88b6a2e381",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.565Z",
+    "updatedAt": "2021-12-07T15:26:27.565Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd16",
+    "name": "Vélo",
+    "idCategory": "61af52cba4eb8b88b6a2e381",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.565Z",
+    "updatedAt": "2021-12-07T15:26:27.565Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd17",
+    "name": "Camping et randonnée",
+    "idCategory": "61af52cba4eb8b88b6a2e381",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.565Z",
+    "updatedAt": "2021-12-07T15:26:27.565Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd18",
+    "name": "Vêtements de Sport",
+    "idCategory": "61af52cba4eb8b88b6a2e381",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.565Z",
+    "updatedAt": "2021-12-07T15:26:27.565Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd19",
+    "name": "Vêtements de Sport Homme",
+    "idCategory": "61af52cba4eb8b88b6a2e381",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.565Z",
+    "updatedAt": "2021-12-07T15:26:27.565Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd1a",
+    "name": "Vêtements de Sport Femme",
+    "idCategory": "61af52cba4eb8b88b6a2e381",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.565Z",
+    "updatedAt": "2021-12-07T15:26:27.565Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd1b",
+    "name": "Chaussures de Sport",
+    "idCategory": "61af52cba4eb8b88b6a2e381",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.565Z",
+    "updatedAt": "2021-12-07T15:26:27.565Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd1c",
+    "name": "Chaussures de Sport homme",
+    "idCategory": "61af52cba4eb8b88b6a2e381",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.565Z",
+    "updatedAt": "2021-12-07T15:26:27.565Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd1d",
+    "name": "Chaussures de Sport Femmes",
+    "idCategory": "61af52cba4eb8b88b6a2e381",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.565Z",
+    "updatedAt": "2021-12-07T15:26:27.565Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd1e",
+    "name": "NUTRITION SPORTIVE",
+    "idCategory": "61af52cba4eb8b88b6a2e381",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.566Z",
+    "updatedAt": "2021-12-07T15:26:27.566Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd1f",
+    "name": "Protéines",
+    "idCategory": "61af52cba4eb8b88b6a2e381",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.566Z",
+    "updatedAt": "2021-12-07T15:26:27.566Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd20",
+    "name": "Nos Meilleures Marques",
+    "idCategory": "61af52cba4eb8b88b6a2e381",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.566Z",
+    "updatedAt": "2021-12-07T15:26:27.566Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd21",
+    "name": "Muscle Tech",
+    "idCategory": "61af52cba4eb8b88b6a2e381",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.566Z",
+    "updatedAt": "2021-12-07T15:26:27.566Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd22",
+    "name": "DAINESE",
+    "idCategory": "61af52cba4eb8b88b6a2e381",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.566Z",
+    "updatedAt": "2021-12-07T15:26:27.566Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd23",
+    "name": "Kits de nettoyage",
+    "idCategory": "61af52cba4eb8b88b6a2e382",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.566Z",
+    "updatedAt": "2021-12-07T15:26:27.566Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd24",
+    "name": "Outils et équipement",
+    "idCategory": "61af52cba4eb8b88b6a2e382",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.566Z",
+    "updatedAt": "2021-12-07T15:26:27.566Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd25",
+    "name": "Audio de voiture",
+    "idCategory": "61af52cba4eb8b88b6a2e382",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.566Z",
+    "updatedAt": "2021-12-07T15:26:27.566Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd26",
+    "name": "Volants et accessoires",
+    "idCategory": "61af52cba4eb8b88b6a2e382",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.566Z",
+    "updatedAt": "2021-12-07T15:26:27.566Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd27",
+    "name": "Housses Voiture",
+    "idCategory": "61af52cba4eb8b88b6a2e382",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.566Z",
+    "updatedAt": "2021-12-07T15:26:27.566Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd28",
+    "name": "GPS",
+    "idCategory": "61af52cba4eb8b88b6a2e382",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.566Z",
+    "updatedAt": "2021-12-07T15:26:27.566Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd29",
+    "name": "Décor Extérieur",
+    "idCategory": "61af52cba4eb8b88b6a2e383",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.567Z",
+    "updatedAt": "2021-12-07T15:26:27.567Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd2a",
+    "name": "Tables d'extérieur",
+    "idCategory": "61af52cba4eb8b88b6a2e383",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.567Z",
+    "updatedAt": "2021-12-07T15:26:27.567Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd2b",
+    "name": "Chaises d'extérieur",
+    "idCategory": "61af52cba4eb8b88b6a2e383",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.567Z",
+    "updatedAt": "2021-12-07T15:26:27.567Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd2c",
+    "name": "Auvents Parasols",
+    "idCategory": "61af52cba4eb8b88b6a2e383",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.567Z",
+    "updatedAt": "2021-12-07T15:26:27.567Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd2d",
+    "name": "Outillage de jardin",
+    "idCategory": "61af52cba4eb8b88b6a2e383",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.567Z",
+    "updatedAt": "2021-12-07T15:26:27.567Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd2e",
+    "name": "Piscines",
+    "idCategory": "61af52cba4eb8b88b6a2e383",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.567Z",
+    "updatedAt": "2021-12-07T15:26:27.567Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd2f",
+    "name": "Barbecues électriques",
+    "idCategory": "61af52cba4eb8b88b6a2e383",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.567Z",
+    "updatedAt": "2021-12-07T15:26:27.567Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd30",
+    "name": "Lampes d'extérieur",
+    "idCategory": "61af52cba4eb8b88b6a2e383",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.567Z",
+    "updatedAt": "2021-12-07T15:26:27.567Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd31",
+    "name": "Produits pour bébés",
+    "idCategory": "61af52cba4eb8b88b6a2e384",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.567Z",
+    "updatedAt": "2021-12-07T15:26:27.567Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd32",
+    "name": "Couches",
+    "idCategory": "61af52cba4eb8b88b6a2e384",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.567Z",
+    "updatedAt": "2021-12-07T15:26:27.567Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd33",
+    "name": "Alimentation",
+    "idCategory": "61af52cba4eb8b88b6a2e384",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.567Z",
+    "updatedAt": "2021-12-07T15:26:27.567Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd34",
+    "name": "Eveil Jouets bébé",
+    "idCategory": "61af52cba4eb8b88b6a2e384",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.567Z",
+    "updatedAt": "2021-12-07T15:26:27.567Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd35",
+    "name": "Nos Meilleures Marques",
+    "idCategory": "61af52cba4eb8b88b6a2e384",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.567Z",
+    "updatedAt": "2021-12-07T15:26:27.567Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd36",
+    "name": "Animalerie",
+    "idCategory": "61af52cba4eb8b88b6a2e384",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.568Z",
+    "updatedAt": "2021-12-07T15:26:27.568Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd37",
+    "name": "Jouets Jeux",
+    "idCategory": "61af52cba4eb8b88b6a2e384",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.568Z",
+    "updatedAt": "2021-12-07T15:26:27.568Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd38",
+    "name": "Divers",
+    "idCategory": "61af52cba4eb8b88b6a2e384",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.568Z",
+    "updatedAt": "2021-12-07T15:26:27.568Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd39",
+    "name": "Livres, Films et Musique",
+    "idCategory": "61af52cba4eb8b88b6a2e384",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.568Z",
+    "updatedAt": "2021-12-07T15:26:27.568Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd3a",
+    "name": "Fournitures Scolaires",
+    "idCategory": "61af52cba4eb8b88b6a2e384",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.568Z",
+    "updatedAt": "2021-12-07T15:26:27.568Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd3b",
+    "name": "Instruments de musique",
+    "idCategory": "61af52cba4eb8b88b6a2e384",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.568Z",
+    "updatedAt": "2021-12-07T15:26:27.568Z"
+  },
+  {
+    "_id": "61af7d23743c38a934ecfd3c",
+    "name": "Services",
+    "idCategory": "61af52cba4eb8b88b6a2e384",
+    "__v": 0,
+    "createdAt": "2021-12-07T15:26:27.568Z",
+    "updatedAt": "2021-12-07T15:26:27.568Z"
+  }
+]

@@ -1,0 +1,26 @@
+version: '2'
+services:
+  packshop-server:
+    container_name: packshop-api
+    env_file:
+      - ../.env
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    ports:
+      - '3022:3005'
+    restart: always
+  packshop-client:
+    container_name: packshop-front
+    build:
+      context: ../front/.
+      dockerfile: ./Dockerfile
+    ports:
+      - '3023:3000'
+  packshop-client-front:
+    container_name: packshop-client
+    build:
+      context: ../client/.
+      dockerfile: ./Dockerfile
+    ports:
+      - '3034:3001'

@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "60cb627ddca6552b5403f72f",
+    "email": "admin@admin.com",
+    "nom": "admin",
+    "address": "test",
+    "telephone": "999999999",
+    "password": "Test123&",
+    "role": "admin"
+  },
+  {
+    "_id": "60cb627ddca6552b5403f730",
+    "email": "test@test.com",
+    "nom": "Test",
+    "address": "Test",
+    "telephone": "555555555",
+    "password": "Test123&",
+    "role": "owner"
+  }
+]

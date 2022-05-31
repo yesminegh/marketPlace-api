@@ -1,0 +1,48 @@
+[
+    {
+        "categories": [
+            "61af52cba4eb8b88b6a2e37e",
+            "61af52cba4eb8b88b6a2e37f"
+        ],
+        "_id": "61af6f528fe988c21c0eee2f",
+        "name": "formatikes",
+        "description": "nbi3ou fel formatik en grosse",
+        "accroche": "en vent zven den",
+        "logo": "https://blog-fr.orson.io/wp-content/uploads/2020/07/logostarbuck.png",
+        "createdAt": "2021-12-07T14:27:30.584Z",
+        "updatedAt": "2021-12-07T14:27:30.584Z",
+        "slug": "formatikes/61af6f528fe988c21c0eee2f",
+        "__v": 0
+    },
+    {
+        "categories": [
+            "61af52cba4eb8b88b6a2e37a",
+            "61af52cba4eb8b88b6a2e380"
+        ],
+        "_id": "61af6feec30c25c42abd050d",
+        "name": "Lou3ab wala biroutik",
+        "description": "nbi3ou fel jeuu fideo w labnak",
+        "accroche": "en vent zven den",
+        "logo": "https://blog-fr.orson.io/wp-content/uploads/2020/07/logostarbuck.png",
+        "createdAt": "2021-12-07T14:30:06.416Z",
+        "updatedAt": "2021-12-07T14:30:06.416Z",
+        "slug": "formatikes/61af6feec30c25c42abd050d",
+        "__v": 0
+    },
+    {
+        "categories": [
+            "61af52cba4eb8b88b6a2e383",
+            "61af52cba4eb8b88b6a2e384"
+        ],
+        "_id": "61af708eac0e4dc5f5259ff3",
+        "name": "Moez Jardinage illa5irouhou ",
+        "description": "nbi3ou fel materiell jnina w fazet",
+        "accroche": "probleme ? 7ama est la",
+        "owner": "60cb627ddca6552b5403f72f",
+        "logo": "https://blog-fr.orson.io/wp-content/uploads/2020/07/logostarbuck.png",
+        "createdAt": "2021-12-07T14:32:46.752Z",
+        "updatedAt": "2021-12-07T14:32:46.752Z",
+        "slug": "formatikes/61af708eac0e4dc5f5259ff3",
+        "__v": 0
+    }
+]
